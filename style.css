@@ -1,0 +1,33 @@
+body {
+    background-color: #52cbe0;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #cf52e0;
+    color: black;
+    font-family: "Bai Jamjuree", sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
